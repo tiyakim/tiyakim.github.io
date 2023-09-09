@@ -1,0 +1,10 @@
+.github
+docs/
+test/
+.edigorconfig
+.gitattributes
+.travis.yml
+CHANGELOG.md
+README.md
+screenshot.png
+screenshot-layouts.png
