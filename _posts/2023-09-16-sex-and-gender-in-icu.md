@@ -17,7 +17,7 @@ tags:
 의학적 상황에서의 성별에 따라 다른 현상은 어떤 경우는 성별에 따른 신체적 차이에 기인할 수 있으나 여전히 사회 경제적인 요소도 여전히 많이 개입되며 치료자의 편견이 영향을 미칠 수 있습니다. 앞서 언급된 여성에서 더 사망률이 높았던 급성심근경색의 경우, 이슈가 부각되며 지난 수년간 사망률에 유의한 개선이 있었습니다. 중환자실에서도 성별차이에 대해 경각심을 가지고 진료하도록 다짐해보았습니다.  
 
 참고:  
-https://link.springer.com/article/10.1007/s00134-023-07194-6  
-https://www.ahajournals.org/doi/10.1161/01.CIR.0000115222.69428.C9  
-https://www.nejm.org/doi/full/10.1056/NEJM199907223410401  
-https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/224854  
+[https://link.springer.com/article/10.1007/s00134-023-07194-6](https://link.springer.com/article/10.1007/s00134-023-07194-6)  
+[https://www.ahajournals.org/doi/10.1161/01.CIR.0000115222.69428.C9](https://www.ahajournals.org/doi/10.1161/01.CIR.0000115222.69428.C9)  
+[https://www.nejm.org/doi/full/10.1056/NEJM199907223410401](https://www.nejm.org/doi/full/10.1056/NEJM199907223410401)  
+[https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/224854](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/224854)  
